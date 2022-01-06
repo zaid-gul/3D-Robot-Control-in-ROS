@@ -1,6 +1,6 @@
-# Research Track I - Final_Assignment
+# 3D Robot Control in ROS
 ## Overview
-![alt text](https://github.com/zaidgul/final_assignment/blob/main/3D%20Simulator.jpg?raw=true)
+![alt text](https://github.com/zaid-gul/3D-Robot-Control-in-ROS/blob/master/3D%20Simulator.jpg?raw=true)
 **Robot exhibits the following behaviour based on the user's input:** 
 1. Move randomly in the environment and reach the random coordinates.
 2. Directly asks the user for the target coordinates and reaches it.
@@ -8,7 +8,7 @@
 4. Stop in the last position.
 
 ## Computational Graph
-![alt text](https://github.com/zaidgul/final_assignment/blob/main/rosgraph.png?raw=true)
+![alt text](https://github.com/zaid-gul/3D-Robot-Control-in-ROS/blob/master/rosgraph.png?raw=true)
 
 
 ## Contents of the Package
