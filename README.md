@@ -1,4 +1,4 @@
-# 3D Robot Control in ROS
+# Robot Control in a 3D environment
 ## Overview
 ![alt text](https://github.com/zaid-gul/3D-Robot-Control-in-ROS/blob/master/3D%20Simulator.jpg?raw=true)
 **Robot exhibits the following behaviour based on the user's input:** 
